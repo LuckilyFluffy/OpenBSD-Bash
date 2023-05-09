@@ -2,6 +2,12 @@
 
 This repository contains my personal Bash configuration files for the Bash shell on OpenBSD.
 
+## Requirements
+
+- OpenBSD operating system
+- Bash shell
+- Bash completion
+
 ## Files
 
 The following files are included in this repository:
