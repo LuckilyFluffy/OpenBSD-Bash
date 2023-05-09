@@ -7,7 +7,7 @@ if [ -f /usr/local/share/bash-completion/bash_completion ]; then
 fi
 
 # Set the PS1 prompt (with colors) to display the hostname, current directory, and username.
-PS1="\[\e[36;1m\]\h:\[\e[32;1m\]\w \[\e[33;1m\]\u\[\e[0m\]$ "
+PS1="\[\e[32;1m\]\h:\[\e[36;1m\]\w \[\e[33;1m\]\u\[\e[0m\]$ "
 
 # Set the default editor to neovim.
 export EDITOR=nvim
